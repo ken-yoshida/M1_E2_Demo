@@ -1,2 +1,3 @@
-# M1_E2_Demo
-Module 1, Exercise 2's "Demo" repository.
+# demo
+
+Module 1, exercise 2's "demo" repository.
